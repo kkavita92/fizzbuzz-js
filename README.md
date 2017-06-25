@@ -1,3 +1,3 @@
-### Fizzbuzz (JS)
+# Fizzbuzz (JS)
 
 
